@@ -1,4 +1,4 @@
-# Pizza_sales_SQL
+# Restaurant_sales_SQL
 
 This project analyzes a pizza sales dataset using MySQL to extract meaningful 
 business insights. The dataset was imported into MySQL Workbench, and a series 
